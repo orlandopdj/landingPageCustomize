@@ -1,0 +1,7 @@
+{
+  "name": "landingpage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
